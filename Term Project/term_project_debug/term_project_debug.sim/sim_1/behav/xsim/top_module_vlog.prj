@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Downloads/clk_divider.v" \
+"../../../../../Downloads/debouncer.v" \
+"../../../../term_project_debug.srcs/sources_1/new/elevator_control_module.v" \
+"../../../../../Downloads/ssd.v" \
+"../../../../term_project_debug.srcs/sources_1/new/top_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

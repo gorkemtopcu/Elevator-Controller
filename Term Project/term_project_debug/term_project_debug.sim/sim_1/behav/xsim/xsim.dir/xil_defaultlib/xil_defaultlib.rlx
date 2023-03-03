@@ -1,0 +1,11 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Hakan/Downloads/clk_divider.v,1674041569,verilog,,C:/Users/Hakan/Downloads/debouncer.v,,clk_divider,,,,,,,,
+C:/Users/Hakan/Downloads/debouncer.v,1674041600,verilog,,C:/Users/Hakan/term_project_debug/term_project_debug.srcs/sources_1/new/elevator_control_module.v,,debouncer,,,,,,,,
+C:/Users/Hakan/Downloads/ssd.v,1674041588,verilog,,C:/Users/Hakan/term_project_debug/term_project_debug.srcs/sources_1/new/top_module.v,,ssd,,,,,,,,
+C:/Users/Hakan/term_project_debug/term_project_debug.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+,,,,,,top_module_tb,,,,,,,,
+C:/Users/Hakan/term_project_debug/term_project_debug.srcs/sources_1/new/elevator_control_module.v,1674045420,verilog,,C:/Users/Hakan/Downloads/ssd.v,,elevator_control_module,,,,,,,,
+C:/Users/Hakan/term_project_debug/term_project_debug.srcs/sources_1/new/top_module.v,1674045291,verilog,,C:/Users/Hakan/term_project_debug/term_project_debug.srcs/sim_1/new/top_module_tb.v,,top_module,,,,,,,,
